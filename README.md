@@ -1,0 +1,2 @@
+# springCloudConfig
+用来搭建springCloudConfig
